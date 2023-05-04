@@ -21,6 +21,7 @@ export default class App extends React.Component {
             loginForm: false
         }
     }
+    // test
 // let bcrypt = dcodeIO.bcrypt;
  handleInput = (e) => {
   let { name, value } = e.target;
